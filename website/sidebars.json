@@ -1,0 +1,8 @@
+{
+  "problem/introduction": {
+    "Home": ["home/introduction"],
+    "Organization": ["organization/introduction"],
+    "Economics": ["economics/introduction"],
+    "Development": ["development/contribution", "development/license"]
+  }
+}
